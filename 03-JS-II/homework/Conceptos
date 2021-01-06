@@ -1,0 +1,4 @@
+For: Lo usamos cuando estamos buscando algo y no paramos de hacerlo hasta que lo encontremos.
+&&: Compara si dos elementos son exactamente iguales, si lo son su respuesta será verdadero sino será falso.
+||: Revisa si dos cosas exite o no, si una de ellas existe dirá que es verdadero, si ninguna de las dos existe dirá que es falso.
+!: Podría decirse que éste operador contradice la operación que lo prosigue, si es una operación que es falso el dirá que es verdadero y si es verdadero el dirá que es falso.
